@@ -37,3 +37,21 @@ python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+
+---
+
+## 👨‍💻 Author
+
+**Sourabh Patil**
+
+* 🔗 GitHub: [https://github.com/spsourabh17](https://github.com/spsourabh17)
+* 💼 LinkedIn: [https://www.linkedin.com/in/sourabh-patil-5242402b7](https://www.linkedin.com/in/sourabh-patil-5242402b7)
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
+
+---
+
